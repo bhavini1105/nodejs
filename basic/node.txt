@@ -1,0 +1,50 @@
+1. What is Node.js?
+
+- Node.js is a tool that lets you run JavaScript outside of a web browser
+- Normally, JavaScript runs in your browser to make websites interactive.
+- Node.js allows JavaScript to run on your computer or server, so you can use it to build things like apps, websites, or tools.
+
+- Node.js turns JavaScript into a versatile, server-side programming language.
+
+- Node.js is a runtime environment for JavaScript. It lets you run JavaScript code on your computer, server,
+  or any environment outside a web browser. 
+  
+- It’s built on Google's V8 JavaScript Engine, which is 
+  the same engine that powers Google Chrome, making it fast and efficient.
+
+- Node.js is a powerful tool for developers to build fast, modern, and scalable applications, 
+  all while using JavaScript as the programming language.
+
+Why is Node.js Special?
+
+- Single-Threaded and Non-Blocking:
+
+  Node.js uses a single thread to handle multiple tasks at the same time.
+  This is possible because of its event-driven architecture, which allows it to handle tasks 
+  (like reading files or making API calls) without waiting for them to finish.
+
+- Asynchronous Programming:
+
+  Node.js performs tasks in the background (asynchronously), freeing up resources for other tasks. 
+  This makes it great for building fast and scalable applications.
+
+- Lightweight and Fast:
+
+  Node.js uses fewer resources compared to traditional server setups, making it fast and efficient.
+
+2. what is server ?
+
+- A server is a computer or program that provides services, data, or resources 
+  to other computers or devices, which are called clients.
+
+- A server is a computer or program that gives you what you ask for.
+
+Key Points:
+
+1. Handles Requests: 
+- Clients (like your phone, laptop, or browser) send requests to the server for information or services.
+
+2. Sends Responses: 
+- The server processes the request and sends back the required information or action.
+
+- a server is like a helpful computer that listens to your requests and gives you what you ask for.
